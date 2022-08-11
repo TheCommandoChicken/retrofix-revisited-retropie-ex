@@ -1,28 +1,14 @@
 <theme>
-	<formatVersion>7</formatVersion>
-	<include>./../theme.xml</include>
-
-	<view name="system">
-		<image name="startSet" extra="static"></image>
-	</view>
-
-	<view name="basic, detailed">
-		<textlist name="gamelist">
-			<selectorColor>FEE606</selectorColor>
-			<selectedColor>000000</selectedColor>
-		</textlist>
-	</view>
-
-	<view name="grid">
-		<image name="gridtile.favorite">
-			<color>FEE606ff</color>
-		</image>  
-	</view>
-
-	<customView name="Tiles" inherits="grid">
-		<gridtile name="selected">
-			<backgroundEdgeColor>FEE606</backgroundEdgeColor>
-		</gridtile>
-	</customView>
-
+   <formatVersion>6</formatVersion>
+   <include>./../theme.xml</include>
+   <view name="system">
+      <image name="system-marker" extra="true">
+         <color>FEE606</color>
+      </image> 
+   </view>
+   <view name="basic,detailed,video">
+      <textlist name="gamelist">
+        <selectorColor>FEE606</selectorColor>
+      </textlist>
+   </view>
 </theme>
