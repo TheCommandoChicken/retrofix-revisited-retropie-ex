@@ -154,7 +154,7 @@
 
    <view name="video">
       <video name="md_video">
-         <delay>1</delay>
+         <delay>2</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
       </video>
