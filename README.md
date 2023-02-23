@@ -10,6 +10,19 @@ This is port of the Retrofix theme by [20GotoTen](https://github.com/20GotoTen) 
    - DOS
    - Famicom
    - SG-1000
+   - Steam
+- Added logos for the following systems:
+   - AGS
+   - Android
+   - C64
+   - CD-i
+   - N64DD
+   - Neo-Geo CD
+   - Neo-Geo Pocket
+   - PC Engine
+   - Satellaview
+   - 32X
+   - Vectrex
 
 ## **Preview**
 
