@@ -3,13 +3,13 @@ This is port of the Retrofix theme by [20GotoTen](https://github.com/20GotoTen) 
 
 **The original theme idea was designed and created by 20GotoTen.  I made changes to the XML to make the theme compatible with RetroPie and added updated artwork. The original version of the theme can be found [here](https://github.com/20GotoTen/es-theme-retrofix)**
 
-## Changes Made
+## Changes Made Since RetroFix-Revisited
 
-- Removed all Batocera specific elements to make the theme compatible with RetroPie and ES-DE
-- Updated system image names to match the standard used by RetroPie and ES-DE
-- Created a 16:10 Layout Variant
-- Added navigation sound set for ES-DE
-- Updated system images and logos
+- Added logos and backgrounds for the following systems:
+   - Desktop
+   - DOS
+   - Famicom
+   - SG-1000
 
 ## **Preview**
 
