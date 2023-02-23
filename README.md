@@ -1,5 +1,5 @@
 # Retrofix Revisited (RetroPie Version)
-This is port of the Retrofix theme by [20GotoTen](https://github.com/20GotoTen) for the version of EmulationStation used in [RetroPie](https://retropie.org.uk/).  
+This is a port of the Retrofix theme by [20GotoTen](https://github.com/20GotoTen) for the version of EmulationStation used in [RetroPie](https://retropie.org.uk/).  
 
 **The original theme idea was designed and created by 20GotoTen. [anthonycaccese](https://github.com/anthonycaccese) made changes to the XML to make the theme compatible with RetroPie and added updated artwork. The original version of the theme can be found [here](https://github.com/20GotoTen/es-theme-retrofix). For more informaiton see the parent repo.**
 
