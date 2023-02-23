@@ -1,7 +1,7 @@
 # Retrofix Revisited (RetroPie Version)
 This is port of the Retrofix theme by [20GotoTen](https://github.com/20GotoTen) for the version of EmulationStation used in [RetroPie](https://retropie.org.uk/).  
 
-**The original theme idea was designed and created by 20GotoTen.  I made changes to the XML to make the theme compatible with RetroPie and added updated artwork. The original version of the theme can be found [here](https://github.com/20GotoTen/es-theme-retrofix)**
+**The original theme idea was designed and created by 20GotoTen. [anthonycaccese](https://github.com/anthonycaccese) made changes to the XML to make the theme compatible with RetroPie and added updated artwork. The original version of the theme can be found [here](https://github.com/20GotoTen/es-theme-retrofix). For more informaiton see the parent repo.**
 
 ## Changes Made Since RetroFix-Revisited
 
@@ -15,7 +15,6 @@ This is port of the Retrofix theme by [20GotoTen](https://github.com/20GotoTen) 
    - AGS
    - Android
    - C64
-   - CD-i
    - N64DD
    - Neo-Geo CD
    - Neo-Geo Pocket
@@ -24,69 +23,9 @@ This is port of the Retrofix theme by [20GotoTen](https://github.com/20GotoTen) 
    - 32X
    - Vectrex
 
-## **Preview**
+## Planned
 
-| System View | Gamelist View |
-|----|----|
-| ![Screen Shot 2022-08-11 at 00 01 14](https://user-images.githubusercontent.com/1454947/184063378-5de2ba90-88b4-4398-9e2c-cbafe54e4bf8.png) | ![Screen Shot 2022-08-11 at 00 02 47](https://user-images.githubusercontent.com/1454947/184063396-341fb5bb-23f0-41f4-8229-59a1402a4657.png) | 
-
-## **Configuration Options**
-
-- The theme has a simple set of options that can be changed directly in the root theme.xml 
-   - Options:
-   - `<aspectRatio></aspectRatio>`- sets the aspect ratio the theme will render at. If needed, this should be changed to match the aspect ratio of your screen.
-   - `<gameListStyle></gameListStyle>`- sets the layout option used for the gamelist view
-- 16:9, 16:10 aspect ratios are supported
-- and 2 gamelist view styles are included (details below)
-
-### Preview of the Gamelist View Styles
-
-| Immersive | Default |
-|----|----|
-| ![Screen Shot 2022-08-11 at 00 02 47](https://user-images.githubusercontent.com/1454947/184063396-341fb5bb-23f0-41f4-8229-59a1402a4657.png) | ![Screen Shot 2022-08-11 at 00 04 30](https://user-images.githubusercontent.com/1454947/184063624-6b169152-dda5-4b80-86ad-b909ae0fa4f6.png) |
-
-## User Customizations
-When using the theme on RetroPie you can make the following changes in the root theme.xml to tailor the look to your setup
-
-### Aspect Ratio... 
-Change the value in `<aspectRatio>` to match your screen aspect ratio (default is 16-9)
-```
-<!-- 
-Apsect Ratio Options:
-16:10 = 16-10
-16:9 = 16-9
--->
-<aspectRatio>16-9</aspectRatio>
-```
-
-### Gamelist View Style...
-Change the value in `< gameListStyle >` to select your preferred gamelist view
-```
-<!-- 
-Gamelist Style Options:
-default
-immersive
--->
-<gameListStyle>default</gameListStyle>
-```
-
-### Example:
-As a quick example if you have a screen with a 16:10 aspect ratio and want the immersive gamelist view then this is what you would change in the theme.xml
-
-```
-<!-- 
-Apsect Ratio Options:
-16:10 = 16-10
-16:9 = 16-9
--->
-<aspectRatio>16-10</aspectRatio>
-<!-- 
-Gamelist Style Options:
-default
-immersive
--->
-<gameListStyle>immersive</gameListStyle>
-```
+- Add full support for every system supported by EmulationStation
 
 ## **Additional Notes**
 
