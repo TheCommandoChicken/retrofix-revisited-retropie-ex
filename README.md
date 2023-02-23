@@ -86,6 +86,8 @@ All artwork and layouts were designed and created by [20GotoTen](https://github.
 
 This version of RetroFix created by [anthonycaccese](https://github.com/anthonycaccese)
 
+New logos are sourced from the Wikimedia Commons.
+
 ## **License**
 Creative Commons CC-BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/2.0/
 You are free to share and adapt this theme as long as you provide attribution back to me (and the above credits) as well share any updates you make under the same licence terms.
