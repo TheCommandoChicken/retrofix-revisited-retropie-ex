@@ -82,7 +82,8 @@ immersive
 * If you use ES-DE... then this version of the theme will work out of the box with that distribution.  When used with ES-DE the theme comes with additional support for navigation sound sets.  I'm also working on a version to support the 2.0 theme engine that the ES-DE team is working on and will post that here when available.  
 
 ## **Credit**
-All artwork and layouts were designed and created by [20GotoTen](https://github.com/20GotoTen) \n
+All artwork and layouts were designed and created by [20GotoTen](https://github.com/20GotoTen) 
+
 This version of RetroFix created by [anthonycaccese](https://github.com/anthonycaccese)
 
 ## **License**
