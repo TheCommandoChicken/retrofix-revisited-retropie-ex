@@ -83,6 +83,7 @@ immersive
 
 ## **Credit**
 All artwork and layouts were designed and created by [20GotoTen](https://github.com/20GotoTen)
+This version of RetroFix created by [anthonycaccese](https://github.com/anthonycaccese)
 
 ## **License**
 Creative Commons CC-BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/2.0/
